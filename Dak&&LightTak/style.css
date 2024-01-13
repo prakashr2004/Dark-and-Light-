@@ -1,0 +1,80 @@
+.body{
+    background-color:rgb(40,43,53);
+   transition: background-color 2s linear  ;
+
+}
+
+.DoblivateMain{
+    
+    background-color: white;
+}
+
+.subContainer
+{
+    margin-left: 300px;
+ 
+}
+.Maincontainer
+{
+   
+    background-color:rgb(40,43,53);
+   
+}
+button{
+    background-color:rgb(232,72,97) ;
+    color: white;
+    border: none;
+    width: 80px;
+    padding: 4px;
+    border-radius: 4px;
+
+}
+.header{
+    display:flex ;
+    align-items: center;
+    gap: 200px;
+   
+}
+p{
+    font-family: 'Maven Pro', sans-serif;
+}
+h1
+{
+    
+   height: 23px;
+    color: rgb(46,53,67);
+    font-family: 'Noto Sans Georgian', sans-serif;
+    letter-spacing: 3px;
+ 
+}
+h2{
+    color:rgb(232,72,97);
+    font-family: 'Maven Pro', sans-serif;
+font-family: 'Noto Sans Georgian', sans-serif;
+font-family: 'Readex Pro', sans-serif;
+letter-spacing: 2px;
+}
+em{
+    color: gray;
+}
+
+
+
+.Change{
+    color: rgb(46,53,67);
+}
+.ColorChange
+{
+    color:rgb(229,221,214);
+}
+
+.h1ColourChange
+{
+color: rgb(248,149,193);
+}
+
+.btnChange{
+    background-color:  rgb(248,149,193);
+    color:rgb(46,47,61);
+}
+
